@@ -32,6 +32,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="KdTreeLib">
+      <HintPath>C:\Users\Inwerwm\Source\Repos\KdTree\KdTreeLib\bin\Release\net471\KdTreeLib.dll</HintPath>
+    </Reference>
     <Reference Include="PEPExtensions">
       <HintPath>..\..\PEPExtensions\PEPExtensions\bin\Release\PEPExtensions.dll</HintPath>
     </Reference>
