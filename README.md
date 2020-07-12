@@ -1,0 +1,2 @@
+# PEPNormalAverager
+選択された同位置頂点の法線を平均化する
